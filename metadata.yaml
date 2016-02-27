@@ -1,0 +1,26 @@
+_repo: A-Grandpa-s-Notebook-Ideas-Models-Stories-and-Memoirs-to-Encourage-Intergenerational-Outreach-__2737
+creator:
+  author:
+    agent_name: Moldeven, Meyer
+    birthdate: 1917
+    gutenberg_agent_id: '1011'
+    url: http://www.gutenberg.org/2009/agents/1011
+description: ''
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2737'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Grandparenting'
+- !lcsh 'Grandfathers -- Family relationships'
+- !lcc 'HQ'
+- !lcsh 'Older people -- Services for'
+- !lcsh 'Older people -- Health and hygiene'
+- !lcsh 'Children''s literature'
+title: "A Grandpa's Notebook\r\nIdeas, Models, Stories and Memoirs to Encourage Intergenerational\
+  \ Outreach and Communication"
+url: http://www.gutenberg.org/ebooks/2737
