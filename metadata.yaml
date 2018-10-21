@@ -1,5 +1,5 @@
 _repo: A-Grandpa-s-Notebook-Ideas-Models-Stories-and-Memoirs-to-Encourage-Intergenerational-Outreach-__2737
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'Older people -- Services for'
 - !lcsh 'Older people -- Health and hygiene'
 - !lcsh 'Children''s literature'
+- GITenberg
 title: "A Grandpa's Notebook\r\nIdeas, Models, Stories and Memoirs to Encourage Intergenerational\
   \ Outreach and Communication"
 url: http://www.gutenberg.org/ebooks/2737
